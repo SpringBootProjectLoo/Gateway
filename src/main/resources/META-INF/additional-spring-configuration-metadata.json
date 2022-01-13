@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "security.basic.enabled",
+    "type": "java.lang.String",
+    "description": "true for enabling Basic Auth"
+  },
+  {
+    "name": "security.user.name",
+    "type": "java.lang.String",
+    "description": "Username for authenticate with basic authentication"
+  },
+  {
+    "name": "security.user.password",
+    "type": "java.lang.String",
+    "description": "Password for authenticate with basic authentication"
+  }
+]}
